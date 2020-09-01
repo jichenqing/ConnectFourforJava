@@ -1,1 +1,1 @@
-# ConnectFourforPy
+# ConnectFourforJava
